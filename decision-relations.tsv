@@ -1,0 +1,6 @@
+path	relation	target	note
+decisions/maine-supreme-judicial-court/1940/137-Me-326--cap-494977.md	same-decision-as	decisions/maine-supreme-judicial-court/1940/137-Me-326.md	the same decision held twice (137 Me. 326, CAP ids 494977 and 494925), same day and text (similarity 0.84); both kept
+decisions/maine-supreme-judicial-court/1950/145-Me-170.md	same-decision-as	decisions/maine-supreme-judicial-court/1950/146-Me-455.md	the same decision in another reporter (145 Me. 170 and 146 Me. 455), same day and text (similarity 0.49, text contained 0.91); both kept
+decisions/maine-supreme-judicial-court/1954/149-Me-410.md	same-decision-as	decisions/maine-supreme-judicial-court/1954/149-Me-396.md	the same decision in another reporter (149 Me. 410 and 149 Me. 396), same day and text (similarity 0.59, text contained 1.00); both kept
+decisions/maine-supreme-judicial-court/1965/214-A-2d-100.md	same-decision-as	decisions/maine-supreme-judicial-court/1965/161-Me-455.md	the same decision in another reporter (214 A.2d 100 and 161 Me. 455), same day and text (similarity 1.00); both kept
+decisions/maine-supreme-judicial-court/1967/231-A-2d-104.md	same-decision-as	decisions/maine-supreme-judicial-court/1967/230-A-2d-807.md	the same decision in another reporter (231 A.2d 104 and 230 A.2d 807), same day and text (similarity 0.66, text contained 0.87); both kept
